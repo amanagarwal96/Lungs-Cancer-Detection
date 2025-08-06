@@ -165,13 +165,12 @@ Training metrics are automatically plotted and saved.
  Requirements
 ---------------
 ```bash
-tensorflow  
-keras  
-flask  
-nltk  
-pandas  
-scikit-learn  
-matplotlib   
+tnumpy>=1.13.3
+pandas>=0.20.1
+SimpleITK>=1.0.0
+scikit-image>=0.13.0
+h5py>=2.7.0
+pickleshare>=0.7.4
 ```
 
 Install via:
