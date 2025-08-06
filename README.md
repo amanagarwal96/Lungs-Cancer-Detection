@@ -179,8 +179,3 @@ pip install -r requirements.txt
 ```
 
 
-
-License
-----------
-
-MIT License © 2025 Aman Agarwal
